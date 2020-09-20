@@ -1,0 +1,95 @@
+header
+{
+text-align:center;
+padding:50px;
+}
+
+*
+{
+    box-sizing:border-box;
+}
+.menu
+{
+    background-color:rgb(227, 246, 255);
+    padding:10px;
+    
+    font-size:20px;
+    border-radius:20px;
+}
+.menu a
+{
+    margin-right:50px;
+}
+
+.bottom
+{
+    background-color:rgb(227,246,255);
+    text-align:center;
+}
+.bottom a
+{
+    margin-right:50px;
+}
+
+.intro
+{
+    text-align:center;
+    padding: 50px;
+    background-image:url("https://i.pinimg.com/originals/2d/2b/54/2d2b54e01c446cee4328d11f43e06f18.jpg");
+    background-repeat: repeat;
+    opacity:0.5;
+}
+.about
+{
+    margin:10px;
+    opacity:.8;
+    background-color:white;
+    border-radius:20px;
+}
+.about p
+{
+    font-size:26px;
+    font-weight:bold;
+}
+
+.classics
+{
+    text-align:center;
+    
+}
+
+a
+{
+    font:red 18px;
+}
+
+img
+{
+    height:300px;
+    width:300px;
+}
+img:hover
+{
+    opacity: 0.5;
+}
+
+.products
+{
+    float:left;
+    padding:5px;
+    width:25%;
+    
+}
+
+a:link
+{
+    color:black;
+}
+a:visited
+{
+    color:teal
+}
+a:hover
+{
+    color:gray;
+}
